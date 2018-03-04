@@ -19,5 +19,6 @@ To open the web site go to http://localhost:9080
 
 -----------
 
-Tim Sutton (tim@linfiniti.com)
-May 2014
+Tim Sutton (tim@kartoza.com)
+Christian Christelis (christian@kartoza.com)
+March 2018
